@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Manrope', sans-serif;
+}
+
+:root {
+    --primary: ##D87D4A;
+    --primary-light: ##fbaf85;
+    --secondary: #101010;
+    --tritary-grey: #F1F1F1;
+    --quanenary: #FAFAFA;
+}
